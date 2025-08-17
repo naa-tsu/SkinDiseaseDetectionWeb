@@ -1,0 +1,13 @@
+{
+    "name": "skin-disease-classifier-web",
+    "version": "1.0.0",
+    "description": "AI-powered skin disease classifier web application",
+    "main": "index.html",
+    "scripts": {
+        "start": "python server.py",
+        "serve": "python -m http.server 8000"
+    },
+    "keywords": ["ai", "tensorflow", "medical", "skin", "classifier"],
+    "author": "Your Name",
+    "license": "MIT"
+}
